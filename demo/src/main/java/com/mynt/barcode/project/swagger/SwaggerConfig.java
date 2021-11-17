@@ -31,7 +31,7 @@ public class SwaggerConfig {
 		return new ApiInfoBuilder().title("JavaInUse API")
 				.description("ProjectBarcode API reference for MYNT developers")
 				.termsOfServiceUrl("https://www.google.com/")
-				.contact("ronelle.feranil@mynt.xyz").license("JavaInUse License")
+				.contact("sample@gmail.com").license("JavaInUse License")
 				.licenseUrl("sample@gmail.com").version("1.0").build();
 	}
 
